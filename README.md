@@ -1,3 +1,4 @@
+Project Headline-
 Sales Report Dashboard 2026 (Jan – March)
 
 An interactive Power BI dashboard that visualizes 2026 sales performance across multiple channels,payment methods, and product categories.
