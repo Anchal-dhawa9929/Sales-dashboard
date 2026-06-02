@@ -37,3 +37,10 @@ Interactive Month Filter (Slicer)-
   A month slicer on the right panel lets users filter the entire dashboard by:
   Select All / Individual months (January – December)
   All visuals update dynamically based on selection
+
+  5- Screenshots-
+  year- https://github.com/Anchal-dhawa9929/Sales-dashboard/blob/main/year_sales.png
+  jan- 
+  feb- 
+  march-
+  
