@@ -41,6 +41,6 @@ Interactive Month Filter (Slicer)-
   5- Screenshots-
   year- https://github.com/Anchal-dhawa9929/Sales-dashboard/blob/main/year_sales.png
   jan- https://github.com/Anchal-dhawa9929/Sales-dashboard/blob/main/jan_sales.png
-  feb- 
+  feb- https://github.com/Anchal-dhawa9929/Sales-dashboard/blob/main/feb_sales.png
   march-
   
